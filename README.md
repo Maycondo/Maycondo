@@ -1,10 +1,10 @@
-# Hello! Eu sou Maycon douglas desenvlvedor Flull Stack❤️💻
+# Hello! Eu sou Maycon douglas desenvlvedor Full Stack❤️💻
 
 <br>
 </br>
 
 
-### Seja bem-vindo ao meu Git-hub!  Meu nome Maycon. trabalho como desenvolvedor Front-end Atualmente estou estudando React Native.❤️📱
+### Seja bem-vindo ao meu Git-hub!  Meu nome Maycon. trabalho como desenvolvedor Full-Stack Atualmente estou estudando React Native.❤️📱
 <br>
 </br>
 
