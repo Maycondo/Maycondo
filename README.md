@@ -3,7 +3,7 @@
 #### Olá 👋🏼 seja bem-vindo! Meu nome é maycon, Entrei no mercado de tecnologia a 2 anos é 9 meses, atualmente trabalho como freelancer você pode ver alguns desses meus projetos Minha paixão pela programação e minha busca contínua por aprender e crescer me impulsionam a criar soluções que fazem a diferença. Dê uma olhada em meu portfólio e descubra como posso contribuir para seus projetos."
 #### Minha jornada no mundo da programação é marcada por um compromisso constante com a aprendizagem e o crescimento. Sempre em busca de aprimorar minhas habilidades, estou determinado a elevar o padrão e entregar resultados que façam a diferença.
 
-### Proects 
+### Projects 
 
 <ul>
   <li><a href="https://maycondo.github.io/Portifolio/" target="_blank">Portifolio</li>
