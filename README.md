@@ -6,9 +6,9 @@
 ### Projects 
 
 <ul>
-  <li><a href="https://maycondo.github.io/Portifolio/" target="_blank">Portifolio</li>
-  <li><a href="https://lupa-animes.vercel.app/" target="_blank">Lupa-Animes</li>
-  <li><a href="https://climate-website-cabubj70g-maycondo.vercel.app/" target="_blank">Webclima</li>
+  <li><a href="" target="_blank">Portifolio</li>
+  <li><a href="" target="_blank">Lupa-Animes</li>
+  <li><a href="" target="_blank">Webclima</li>
 </ul>
 
 
