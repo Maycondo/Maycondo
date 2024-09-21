@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋! My name is ... and I'm a ..., from ....
 
 #### Olá 👋🏼 seja bem-vindo! Meu nome é maycon, Entrei no mercado de tecnologia a 1 ano 9 meses, atualmente trabalho como freelancer você pode ver alguns desses meus projetos Minha paixão pela programação e minha busca contínua por aprender e crescer me impulsionam a criar soluções que fazem a diferença. Dê uma olhada em meu portfólio e descubra como posso contribuir para seus projetos."
 #### Minha jornada no mundo da programação é marcada por um compromisso constante com a aprendizagem e o crescimento. Sempre em busca de aprimorar minhas habilidades, estou determinado a elevar o padrão e entregar resultados que façam a diferença.
@@ -11,7 +11,7 @@
   <li><a href="" target="_blank">Webclima</li>
 </ul>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
@@ -22,7 +22,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
