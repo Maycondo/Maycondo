@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Languages & Tools I Have Placed My Hands On
+## 🧠 Linguagens e Ferramentas com as Quais Já Trabalhei
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,mongodb,py,cs,dotnet,vscode,github,git,linux,figma,bash,postman,redux" />
@@ -50,15 +50,11 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-
-> *You can showcase a pinned project manually or use GitHub’s default pins.*
-
 ---
 
-## 💬 Random Dev Quote
+## 💬 Citação Aleatória de Dev
 
-> “First, solve the problem. Then, write the code.”  
+> "Primeiro, resolva o problema. Depois, escreva o código."  
 > — John Johnson
 
 ---
@@ -76,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maycondo&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maycondou&theme=github-compact" />
 </p>
 
 ---
