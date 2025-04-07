@@ -1,4 +1,4 @@
-<h1 align="center">MasterJudah here 🔥 !</h1>
+<h1 align="center">MasterMaycon here 🔥 !</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F+I'm+Maycon+Douglas" />
@@ -6,20 +6,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-- 🚀 I'm a self-taught developer passionate about building software and solving problems.
-- 🎯 Currently pursuing a degree in Computer Science.
-- 🧠 I work with C#, JavaScript, and other web technologies.
-- 💻 I’m diving into backend and frontend frameworks like ASP.NET, React, and Node.js.
-- ☕ I love productivity, clean UIs, and helping others grow.
+- 🚀 Sou um desenvolvedor autodidata, apaixonado por criar software e resolver problemas.
+- 🎯 Atualmente estou cursando Ciência da Computação.
+- 🧠 Trabalho com C#, JavaScript e outras tecnologias web.
+- 💻 Estou me aprofundando em frameworks de backend e frontend como ASP.NET, React e Node.js.
+- ☕ Amo produtividade, interfaces limpas e ajudar outras pessoas a evoluírem.
 
 ---
 
 ## 🧠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,mongodb,py,java,cs,dotnet,vscode,github,git,linux,figma,bash,postman,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,mongodb,py,cs,dotnet,vscode,github,git,linux,figma,bash,postman,redux" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/Maycondo" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee"/>
   </a>
 </p>
@@ -76,11 +76,11 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maycondo&theme=github-compact" />
 </p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by Joshua Thadi  
+  Made with ❤️ by Maycon Douglas 
 </p>
