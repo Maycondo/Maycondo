@@ -27,10 +27,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maycondo&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Maycondo&theme=graywhite&hide_border=false)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycondo&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maycondo&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Maycondo&theme=graywhite&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycondo&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
+
 </div>
+
 
 ---
 
