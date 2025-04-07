@@ -1,7 +1,7 @@
 <h1 align="center">MasterJudah here 🔥 !</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F+I'm+Joshua+Thadi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F+I'm+Maycon+Douglas" />
 </p>
 
 ---
