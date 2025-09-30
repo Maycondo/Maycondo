@@ -10,7 +10,7 @@
 
 - 🚀 Sou um desenvolvedor autodidata, apaixonado por criar software e resolver problemas.
 - 🎯 Atualmente estou cursando análise desenvolvimento de sistema.
-- 🧠 Trabalho com C#, JavaScript e outras tecnologias web.
+- 🧠 Trabalho com C#, JavaScript, Python e outras tecnologias web.
 - 💻 Estou me aprofundando em frameworks de backend e frontend como ASP.NET, React e Node.js.
 - ☕ Amo produtividade, interfaces limpas e ajudar outras pessoas a evoluírem.
 
